@@ -1,0 +1,7 @@
+﻿2021-08-11 11:10:37.2953|DEBUG|SessionNLog.NLog|Debug Successful : Sum()
+2021-08-11 11:10:37.4028|INFO|SessionNLog.NLog|Sum Method passed, Result35
+2021-08-11 11:11:39.4385|DEBUG|SessionNLog.NLog|Debug Successful : Sum()
+2021-08-11 11:11:39.4836|ERROR|SessionNLog.NLog|Expwcting null values
+2021-08-11 11:11:39.4836|WARN|SessionNLog.NLog|a or b should not be equal to 0
+2021-08-11 11:11:39.4836|DEBUG|SessionNLog.NLog|Debug Successful : Sum()
+2021-08-11 11:11:39.4836|INFO|SessionNLog.NLog|Sum Method passed, Result5
